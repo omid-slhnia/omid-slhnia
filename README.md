@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omid-slhnia
+- 👋 Hi, I’m ALIREZA
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning DL & ML
 - 📫 How to reach me / Linkedin
